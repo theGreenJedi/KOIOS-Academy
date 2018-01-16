@@ -1,5 +1,5 @@
 # KOIOS Academy
-## PythonStarz
+## PythonStarz Overview
 PythonStarz Class notes
 
 Each student signs up for a student github account --> https://education.github.com/
